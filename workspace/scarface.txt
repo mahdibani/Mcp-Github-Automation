@@ -1,2 +1,0 @@
-"this is just the beginning" 
-"$(echo 2+2 | bc) this is just the beginning" 

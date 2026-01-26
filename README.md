@@ -4,7 +4,6 @@ A production-ready implementation showcasing AI-driven GitHub repository automat
 
 ## 📺 Demo Video
 
-[https://github.com/mahdibani/Mcp-Github-Automation/issues/1]
 
 ## 🎯 Project Overview
 

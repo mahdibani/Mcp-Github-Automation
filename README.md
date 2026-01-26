@@ -1,10 +1,10 @@
-# 🚀 Automated GitHub Repository Management with MCP & Gemini AI
+# Automated GitHub Repository Management with MCP & Gemini AI
 
 A production-ready implementation showcasing AI-driven GitHub repository automation using the Model Context Protocol (MCP) framework and Gemini AI integration.
 
 ## 📺 Demo Video
 
-[Insert your video demo here]
+[https://github.com/mahdibani/Mcp-Github-Automation/issues/1]
 
 ## 🎯 Project Overview
 
